@@ -1,8 +1,0 @@
-$nomention
-$title[🎱 la bola adivina 🎱]
-$color[8B008B]
-$footer[si lees esto sos gay xd]
-$description[
-pregunta: $message
-
-🎱la bola responde: $randomText[si;no;no estoy seguro;ni en pedo;obvio;nose xd;a eso te lo aseguro;ni idea;si papu;que? no!;ni ahi;ni a ganncho;quizás;tengo miedo de contestar;pocas probabilidades;probablemente]]

@@ -1,0 +1,7 @@
+$nomention
+$color[#ff0000] 
+$footerIcon[https://cdn.discordapp.com/attachments/576017761831092225/579033167185444904/youtube-logo-png-2069_thumb1200_4-3.webp] 
+$author[Búsqueda en YouTube] 
+$description[Buscando 🔎   " $message "
+https://www.youtube.com/results?search_query=$replaceText[$message; ;+;-1]
+De : $username] 

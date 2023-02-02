@@ -1,0 +1,6 @@
+$clear $nomention $deletecommand
+$title[**Purge**]
+$color[#191919]
+$footerIcon[$authorAvatar]
+$thumbnail[$authorAvatar]
+$description[**$message messages have been deleted!**]
